@@ -1,0 +1,15 @@
+{
+  "name": "04---ss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaveen Nayanajith",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/snapshot": "^2.1.7",
+    "cypress": "^10.7.0"
+  }
+}
