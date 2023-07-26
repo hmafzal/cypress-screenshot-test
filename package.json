@@ -11,5 +11,8 @@
   "devDependencies": {
     "@cypress/snapshot": "^2.1.7",
     "cypress": "^10.7.0"
+  },
+  "dependencies": {
+    "cypress-image-diff-js": "^1.26.0"
   }
 }
